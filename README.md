@@ -2,9 +2,9 @@
 What to do:
 create a file named yourname.txt
 
-write "my name is yourname"
+Write "my name is yourname"
 
-only write the content is quotes in that file
-Please cheak my file for help if needed
+Only write the content is quotes in that file
+Please cheak my file for help if needed garv_sanveria.txt
 
 
